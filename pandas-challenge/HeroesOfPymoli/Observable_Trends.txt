@@ -1,0 +1,6 @@
+##Observable trends based on the data ##
+	1. Out of 576 total players, majority of players are male (84%) who did purchasing.
+	2. Vast majority of the players falls into age group (20-24) which is 48%.
+	3. Most of the purchasing was done by the players in age group ($20024).
+	4. Most popular & Profitable item is - "Oathbreaker, Last Hope of the Breaking Storm".
+ 
